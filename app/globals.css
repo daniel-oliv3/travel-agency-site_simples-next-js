@@ -1,0 +1,58 @@
+
+
+.link {
+  color: #ffffff;
+  background: linear-gradient(to bottom, #333 0%, #111 100%);
+  text-decoration: none;
+  margin: 0px 10px;
+  border-radius: 5px;
+  padding: 5px 20px;
+}
+
+.link:hover {
+  background: linear-gradient(to bottom, #ff009d 0%, #9900ff 100%);
+}
+
+
+
+/* Home - Section One */
+.section-one {
+  background-image: url(/assets/imagens/section-one-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.section-one-title {
+  font-size: 2.5rem;
+  color: rgb(255, 251, 0);
+}
+
+.section-one-text {
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  padding: 20px;
+}
+
+
+/* Home - Section Two */
+.section-two {
+  background-color: rgb(164, 180, 189);
+}
+
+
+/* Home - Section Three */
+.section-three {
+  background-color: #ffffff;
+}
+
+
+/* Map - Section */
+.map {
+  width: 100%;
+  height: 85vh;
+}
+
+
+
